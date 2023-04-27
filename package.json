@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fastify-jwt": "^4.2.0",
+    "install": "^0.13.0"
+  }
+}
